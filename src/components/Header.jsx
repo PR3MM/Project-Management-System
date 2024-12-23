@@ -11,9 +11,9 @@ const Header = () => {
 
   return (
     <div className="space-y-2">
-      <nav className="border-b bg-white dark:bg-black px-6 py-4">
+      <nav className="border-b bg-white dark:bg-black px-3 py-4">
         <div className="max-w-7xl mx-auto flex justify-between items-center">
-          <h1 className="text-xl font-semibold tracking-tight">Task Tracker</h1>
+          <h1 className="text-xl font-semibold tracking-tight">Project Management System</h1>
           <Button variant="outline">Logout</Button>
           
         </div>
