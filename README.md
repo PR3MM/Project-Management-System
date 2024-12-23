@@ -21,8 +21,6 @@ The **Student Management System** is a web application that allows users to mana
 - **Context API** for state management
 - **Vercel** for deployment
 
-### Backend:
-- (If applicable, mention backend technologies or APIs used here)
 
 ## Key Components
 - **Task Component**: Displays a list of tasks that are either pending or assigned to the user. Tasks can be accepted or declined, with progress tracked.
