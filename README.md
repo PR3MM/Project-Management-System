@@ -1,4 +1,5 @@
-# Student Management System
+# Project Management System
+
 
 ## Overview
 The **Student Management System** is a web application that allows users to manage student records and track academic progress efficiently. This system helps educational institutions handle student data, including personal details, academic performance, and task assignments. It offers an intuitive interface for students and administrators to access and manage records seamlessly.
